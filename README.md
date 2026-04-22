@@ -1,5 +1,5 @@
 # Miner-Game
-Its game on godot. ITS NOT MINER VIRUS IS GAME
+Its game on godot. ITS NOT MINER VIRUS ITS GAME
 # About Game
 Game made on godot
 
